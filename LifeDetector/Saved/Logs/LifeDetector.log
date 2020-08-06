@@ -728,3 +728,164 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.06-09.49.42:428][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
 [2020.08.06-09.49.46:671][ 89]LogSlate: Window 'Delete Assets' being destroyed
 [2020.08.06-09.49.46:840][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2020.08.06-09.54.21:776][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.08.06-09.54.21:833][252]LogSavePackage: Moving '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Saved/Scene1B690C709460846455C140E83E16D5F56.tmp' to '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Content/Content_Desert/Map/Scene1.umap'
+[2020.08.06-09.54.21:912][252]AssetCheck: New page: Asset Save: Scene1
+[2020.08.06-09.54.21:912][252]LogContentValidation: Display: Validating World /Game/Content_Desert/Map/Scene1.Scene1
+[2020.08.06-09.54.29:167][656]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterMaterial/MI_ObjectName01" FILE="../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Content/MasterMaterial/MI_ObjectName01.uasset" SILENT=true
+[2020.08.06-09.54.29:186][656]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2020.08.06-09.54.29:196][656]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.06-09.54.29:732][656]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.06-09.54.29:732][656]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.06-09.54.29:737][656]TextureStreamingBuild: Display: Compiling optional shaders took 0.548 seconds.
+[2020.08.06-09.54.29:768][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2020.08.06-09.54.29:801][656]LogSavePackage: Moving '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Saved/MI_ObjectName01540E515D44CFA0708885B3B1C1F8050B.tmp' to '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Content/MasterMaterial/MI_ObjectName01.uasset'
+[2020.08.06-09.54.29:855][656]AssetCheck: New page: Asset Save: MI_ObjectName01
+[2020.08.06-09.54.29:855][656]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MasterMaterial/MI_ObjectName01.MI_ObjectName01
+[2020.08.06-09.54.34:900][818]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterMaterial/MI_ObjectName01" FILE="../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Content/MasterMaterial/MI_ObjectName01.uasset" SILENT=true
+[2020.08.06-09.54.34:919][818]LogSavePackage: Moving '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Saved/MI_ObjectName017D7A80C14C2ABD1420877496A183C7FF.tmp' to '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Content/MasterMaterial/MI_ObjectName01.uasset'
+[2020.08.06-09.54.34:954][818]AssetCheck: New page: Asset Save: MI_ObjectName01
+[2020.08.06-09.54.34:954][818]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MasterMaterial/MI_ObjectName01.MI_ObjectName01
+[2020.08.06-09.54.48:219][496]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MasterMaterial/MI_ObjectName01" FILE="../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Content/MasterMaterial/MI_ObjectName01.uasset" SILENT=true
+[2020.08.06-09.54.48:237][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2020.08.06-09.54.48:240][496]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.06-09.54.48:596][496]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.06-09.54.48:596][496]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.06-09.54.48:597][496]TextureStreamingBuild: Display: Compiling optional shaders took 0.357 seconds.
+[2020.08.06-09.54.48:617][496]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2020.08.06-09.54.48:641][496]LogSavePackage: Moving '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Saved/MI_ObjectName018B7FF95F419DBC17990219BB3136A9F1.tmp' to '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Content/MasterMaterial/MI_ObjectName01.uasset'
+[2020.08.06-09.54.48:669][496]AssetCheck: New page: Asset Save: MI_ObjectName01
+[2020.08.06-09.54.48:669][496]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MasterMaterial/MI_ObjectName01.MI_ObjectName01
+[2020.08.06-09.54.51:982][691]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2020.08.06-09.54.52:025][691]LogSavePackage: Moving '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Saved/Scene124843F0D4FD265E529CA2A9DE5D60562.tmp' to '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Content/Content_Desert/Map/Scene1.umap'
+[2020.08.06-09.54.52:102][691]AssetCheck: New page: Asset Save: Scene1
+[2020.08.06-09.54.52:102][691]LogContentValidation: Display: Validating World /Game/Content_Desert/Map/Scene1.Scene1
+[2020.08.06-09.55.00:816][162]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/MasterMaterial/MasterMaterial_Opaque.MasterMaterial_Opaque
+[2020.08.06-09.55.00:822][162]LogMaterial: Display: Missing cached shader map for material MasterMaterial_Opaque, compiling. 
+[2020.08.06-09.55.00:951][162]LogMaterial: Display: Missing cached shader map for material MasterMaterial_Opaque, compiling. 
+[2020.08.06-09.55.00:965][162]LogMaterial: Display: Missing cached shader map for material MasterMaterial_Opaque, compiling. 
+[2020.08.06-09.55.00:981][162]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.06-09.55.00:981][162]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.06-09.55.00:981][162]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.06-09.55.00:981][162]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.06-09.55.00:986][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_2, compiling. 
+[2020.08.06-09.55.00:996][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_1, compiling. 
+[2020.08.06-09.55.01:001][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_1, compiling. 
+[2020.08.06-09.55.01:007][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_2, compiling. 
+[2020.08.06-09.55.01:012][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_3, compiling. 
+[2020.08.06-09.55.01:018][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_4, compiling. 
+[2020.08.06-09.55.01:023][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_2, compiling. 
+[2020.08.06-09.55.01:030][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionChannelMaskParameter_0, compiling. 
+[2020.08.06-09.55.01:036][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionVectorParameter_3, compiling. 
+[2020.08.06-09.55.01:041][162]LogMaterial: Display: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSampleParameter2D_5, compiling. 
+[2020.08.06-09.55.01:135][162]LogSlate: Took 0.000252 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2020.08.06-09.55.01:379][163]LogSlate: Took 0.000333 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.08.06-09.55.01:622][179]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 45
+[2020.08.06-09.55.01:648][180]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 44
+[2020.08.06-09.55.01:720][185]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 43
+[2020.08.06-09.55.01:921][197]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 42
+[2020.08.06-09.55.02:173][213]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 41
+[2020.08.06-09.55.02:417][225]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 40
+[2020.08.06-09.55.02:465][226]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 39
+[2020.08.06-09.55.02:598][230]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2020.08.06-09.55.02:601][230]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2020.08.06-09.55.02:636][231]MaterialEditorStats: Base pass shader: 160 instructions
+[2020.08.06-09.55.02:636][231]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 237 instructions
+[2020.08.06-09.55.02:636][231]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.08.06-09.55.02:636][231]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.06-09.55.02:636][231]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.08.06-09.55.02:636][231]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.06-09.55.02:827][237]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 36
+[2020.08.06-09.55.02:998][243]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 35
+[2020.08.06-09.55.03:030][244]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2020.08.06-09.55.03:106][246]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 33
+[2020.08.06-09.55.03:236][250]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 32
+[2020.08.06-09.55.03:514][259]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 31
+[2020.08.06-09.55.03:526][259]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 30
+[2020.08.06-09.55.03:544][260]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 29
+[2020.08.06-09.55.03:632][261]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 28
+[2020.08.06-09.55.03:967][273]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 27
+[2020.08.06-09.55.04:040][275]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 26
+[2020.08.06-09.55.04:049][275]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2020.08.06-09.55.04:049][275]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 24
+[2020.08.06-09.55.04:457][288]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 23
+[2020.08.06-09.55.04:470][288]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 22
+[2020.08.06-09.55.04:481][289]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.08.06-09.55.04:547][291]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.08.06-09.55.04:892][303]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 19
+[2020.08.06-09.55.04:956][307]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 18
+[2020.08.06-09.55.04:966][308]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2020.08.06-09.55.04:977][308]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 16
+[2020.08.06-09.55.05:388][333]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 15
+[2020.08.06-09.55.05:398][333]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.08.06-09.55.05:410][334]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.08.06-09.55.05:469][336]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 12
+[2020.08.06-09.55.05:834][354]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 11
+[2020.08.06-09.55.05:879][356]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.08.06-09.55.05:905][357]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.06-09.55.05:914][357]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 8
+[2020.08.06-09.55.06:338][370]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2020.08.06-09.55.06:351][370]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.08.06-09.55.06:362][371]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2020.08.06-09.55.06:400][372]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.08.06-09.55.06:790][384]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.08.06-09.55.06:844][386]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.08.06-09.55.06:855][386]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.08.06-09.55.18:141][962]LogMaterial: Display: Missing cached shader map for material MasterMaterial_Opaque, compiling. 
+[2020.08.06-09.55.18:169][963]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.06-09.55.18:169][963]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.06-09.55.18:169][963]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.06-09.55.18:169][963]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.06-09.55.18:598][990]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5
+[2020.08.06-09.55.18:777][  1]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4
+[2020.08.06-09.55.18:856][  6]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.08.06-09.55.18:863][  6]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2020.08.06-09.55.19:211][ 28]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.08.06-09.55.19:711][ 55]MaterialEditorStats: Base pass shader: 147 instructions
+[2020.08.06-09.55.19:711][ 55]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 224 instructions
+[2020.08.06-09.55.19:711][ 55]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.08.06-09.55.19:711][ 55]MaterialEditorStats: Texture samplers: 5/16
+[2020.08.06-09.55.19:711][ 55]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.08.06-09.55.19:711][ 55]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.06-09.55.21:091][113]LogMaterialEditor: Saving and Compiling material MasterMaterial_Opaque
+[2020.08.06-09.55.21:899][113]LogMaterial: Display: Missing cached shader map for material MasterMaterial_Opaque, compiling. 
+[2020.08.06-09.55.21:973][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 9
+[2020.08.06-09.55.21:973][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.06-09.55.21:973][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2020.08.06-09.55.21:973][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 6
+[2020.08.06-09.55.21:993][113]LogMaterial: Display: Missing cached shader map for material MasterMaterial_Opaque, compiling. 
+[2020.08.06-09.55.22:114][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.08.06-09.55.22:123][113]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.08.06-09.55.22:691][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 22
+[2020.08.06-09.55.22:691][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 21
+[2020.08.06-09.55.22:691][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 20
+[2020.08.06-09.55.22:691][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 19
+[2020.08.06-09.55.23:252][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2020.08.06-09.55.23:252][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2020.08.06-09.55.23:252][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 16
+[2020.08.06-09.55.23:252][113]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 15
+[2020.08.06-09.55.23:495][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2020.08.06-09.55.23:495][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 8
+[2020.08.06-09.55.23:495][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2020.08.06-09.55.23:510][113]TextureStreamingBuild: Display: Compiling optional shaders took 1.393 seconds.
+[2020.08.06-09.55.23:539][113]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2020.08.06-09.55.24:771][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.08.06-09.55.24:771][113]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.08.06-09.55.25:124][113]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2020.08.06-09.55.25:240][113]LogSavePackage: Moving '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Saved/MasterMaterial_OpaqueC3A689D04208802DE21316842CCC4181.tmp' to '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Content/MasterMaterial/MasterMaterial_Opaque.uasset'
+[2020.08.06-09.55.25:292][113]AssetCheck: New page: Asset Save: MasterMaterial_Opaque
+[2020.08.06-09.55.25:292][113]LogContentValidation: Display: Validating Material /Game/MasterMaterial/MasterMaterial_Opaque.MasterMaterial_Opaque
+[2020.08.06-09.55.25:297][113]MaterialEditorStats: Base pass shader: 147 instructions
+[2020.08.06-09.55.25:297][113]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 224 instructions
+[2020.08.06-09.55.25:297][113]MaterialEditorStats: Base pass vertex shader: 44 instructions
+[2020.08.06-09.55.25:297][113]MaterialEditorStats: Texture samplers: 6/16
+[2020.08.06-09.55.25:297][113]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2020.08.06-09.55.25:297][113]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.08.06-09.55.30:419][365]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2020.08.06-09.55.30:463][365]LogSavePackage: Moving '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Saved/Scene11129F5F644637AF1966B8B8FF39381CC.tmp' to '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Content/Content_Desert/Map/Scene1.umap'
+[2020.08.06-09.55.30:541][365]AssetCheck: New page: Asset Save: Scene1
+[2020.08.06-09.55.30:541][365]LogContentValidation: Display: Validating World /Game/Content_Desert/Map/Scene1.Scene1
+[2020.08.06-09.55.32:106][457]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2020.08.06-09.55.32:149][457]LogSavePackage: Moving '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Saved/Scene1C9155B3849592653DC5A3587A9FE564E.tmp' to '../../../../../../Users/2jixkn/Desktop/ooo/Life_Detector/LifeDetector/Content/Content_Desert/Map/Scene1.umap'
+[2020.08.06-09.55.32:229][457]AssetCheck: New page: Asset Save: Scene1
+[2020.08.06-09.55.32:229][457]LogContentValidation: Display: Validating World /Game/Content_Desert/Map/Scene1.Scene1
