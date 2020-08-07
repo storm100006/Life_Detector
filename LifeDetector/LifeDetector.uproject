@@ -7,10 +7,6 @@
 		{
 			"Name": "TrueSkyPlugin",
 			"Enabled": true
-		},
-		{
-			"Name": "HoudiniEngine",
-			"Enabled": true
 		}
 	]
 }
