@@ -5,10 +5,6 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "TrueSkyPlugin",
-			"Enabled": true
-		},
-		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
 		},
